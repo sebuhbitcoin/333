@@ -19,7 +19,7 @@
         <div class="border-yellow-500 border-2 rounded-lg p-6">
           <p>thr33p3nny the thr33som3s utility token 
             <br>ticker: 3P</p>
-          <p>Contract Address: KT1Djs2AP15MyfuiMU6cjbgrLsfxqALucmEV <a :href="ktLink" class="text-lg break-all md:text-xl hover:text-yellow-400 transition-colors" target="_blank" rel="noopener nofollow">{{ token }}</a></p>
+          <p>Contract Address: <a :href="ktLink" class="text-lg break-all md:text-xl hover:text-yellow-400 transition-colors" target="_blank" rel="noopener nofollow">{{ token }}</a></p>
         </div>
     </div>
    
